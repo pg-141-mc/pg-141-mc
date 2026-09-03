@@ -106,6 +106,15 @@ specific code and multiple line code box
 
 '[display text] (url)' = text with website attached
 
+```markdown
+| head1 | head2 | head3 |
+|-------|-------|-------|
+| box1,1 | box1,2 | box1,3 |
+| box2,1 | box2,2 | box2,3 |
+```
+
+= table
+
 
 
 
