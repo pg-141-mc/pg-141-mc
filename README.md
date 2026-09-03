@@ -20,13 +20,15 @@ For Windows: 🪟
 For Mac: 🖥️
 
 (There will be a file called `Python.pkg`) 📦
+
 2. Find the `.pkg` and double-click it.
 3. Select `Continue` and `Install`.
 4. Find IDLE and open it
 
 For Ubuntu:
 
-(If you recently bought your Ubuntu, there is a likely chance Python is already installed. Find it if you can. No luck? Instructions: )
+If you recently bought your Ubuntu, there is a likely chance Python is already installed. Find it if you can. No luck? Instructions: 
+
 2. Open the Terminal 
 3. Type:
 ```bash
