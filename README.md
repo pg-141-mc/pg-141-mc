@@ -86,17 +86,23 @@ If you want to make your own repos in GitHub and you're new, here are some good 
 
 '###' = sub-subtitle ¦idk the name¦
 
-'`' = 1-line code box
+'`' = 
 
-'```'= specific code and multiple line code box
+`1-line code box`
 
-'**' or '__' = bold
+'```'= 
+```
+specific code and multiple line code box
+```
+'**' or '__' = **bold**
 
-'*' or '_' = italic
+'*' or '_' = *italic*
 
 '***' or '___' or
 
-'**_' or '*__' = bold + italic
+'**_' or '*__' = ***bold + italic***
+
+'~~' = ~~strikethrough~~
 
 
 
