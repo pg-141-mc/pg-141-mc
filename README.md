@@ -81,9 +81,13 @@ BBBBYYYYYYYEEEEEEEEEEEEEEEEEEEEE!!!!!!!!! 👋
 If you want to make your own repos in GitHub and you're new, here are some good Markdown tips that I know:
 
 '#' = title
+
 '##' = subtitle
+
 '###' = sub-subtitle ¦idk the name¦
+
 '`' = 1-line code box
+
 '``' = specific code and multiple line code box
 
 
