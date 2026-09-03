@@ -77,6 +77,14 @@ I tried to put `.exe`s here but it was too big for GitHub sadly. If it managed t
 ## Now it's everything
 BBBBYYYYYYYEEEEEEEEEEEEEEEEEEEEE!!!!!!!!! 👋
 
+### Wait, I forgot something!
+If you want to make your own repos in GitHub and you're new, here are some good Markdown tips that I know:
+
+'#' = title
+'##' = subtitle
+'###' = sub-subtitle ¦idk the name¦
+'`' = 1-line code box
+'``' = specific code and multiple line code box
 
 
 
