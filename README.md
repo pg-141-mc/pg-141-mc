@@ -104,6 +104,8 @@ specific code and multiple line code box
 
 '~~' = ~~strikethrough~~
 
+[display text](url) = text with website attached
+
 
 
 
