@@ -5,11 +5,11 @@ I make Python games based on the DK books on Python coding so you can make wonde
 
 # Resources
 Code: DK Computer Coding; Python Projects; Python Games For Kids 📖
-Pictures: Python Games Resource Pack: https://dk.com/blogs/resources/computer-coding 💻
+Pictures: [Python Games Resource Pack](https://dk.com/blogs/resources/computer-coding) 💻
 
 # To Install Python/Pygame/Pygame Zero 🔃
 ## Python
-1. Go to https://www.python.org/downloads/ to download Python 🌐
+1. Go to [the Python downloading website](https://www.python.org/downloads/) to download Python 🌐
 
 For Windows: 🪟
 
