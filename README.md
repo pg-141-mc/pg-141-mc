@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Prayaag Ghimire
+# Hi there 👋 I'm Prayaag Ghimire
 
 # What I do in GitHub
 I make Python games based on the DK books on Python coding so you can make wonderful games without doing all the work! 👨‍💻🐍
@@ -7,22 +7,25 @@ I make Python games based on the DK books on Python coding so you can make wonde
 Code: DK Computer Coding; Python Projects; Python Games For Kids 📖
 Pictures: Python Games Resource Pack: https://dk.com/blogs/resources/computer-coding 💻
 
-## To Install Python/Pygame/Pygame Zero 🔃
-# Python
+# To Install Python/Pygame/Pygame Zero 🔃
+## Python
 1. Go to https://www.python.org/downloads/ to download Python 🌐
 
 For Windows: 🪟
+
 2. Select `executable installer` (if 32-bit: x86, if 64-bit: x86-64)
 3. Open installer file, then `Custom Installation`, then `Next` until you reach `Advanced Options`. Make sure to tick `Install for all users` and `Add Python to environment variables`. Then `Install` and `Next` at each prompt.
 4. Find IDLE and open it
 
 For Mac: 🖥️
+
 (There will be a file called `Python.pkg`) 📦
 2. Find the `.pkg` and double-click it.
 3. Select `Continue` and `Install`.
 4. Find IDLE and open it
 
 For Ubuntu:
+
 (If you recently bought your Ubuntu, there is a likely chance Python is already installed. Find it if you can. No luck? Instructions: )
 2. Open the Terminal 
 3. Type:
@@ -31,7 +34,7 @@ $ sudo apt-get update
 $ sudo apt-get install idle3
 ```
 4. Find IDLE and open it
-# Pygame/Pygame Zero 🎮
+## Pygame/Pygame Zero 🎮
 
 For Windows:
 1. Open Command Prompt
@@ -63,11 +66,11 @@ brew install sdl sdl_mixer sdl_sound sdl_ttf
 pip3 install pygame
 pip3 install pgzero
 ```
-## That's everything!
-# (not ☹️)
+# That's everything!
+## (not ☹️)
 I tried to put `.exe`s here but it was too big for GitHub sadly. If it managed to accept it, you wouldn't have to do all that. But still, you can still have fun when you upload everything. (Also, you need to put the `.png`s in a separate `images` folder and `.ogg`s in a separate `music` folder, which both have to be in the same folder with the `.py` file.) 📔🐍
 
-# Now it's everything
+## Now it's everything
 BBBBYYYYYYYEEEEEEEEEEEEEEEEEEEEE!!!!!!!!! 👋
 
 
