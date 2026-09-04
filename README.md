@@ -77,14 +77,14 @@ I tried to put `.exe`s here but it was too big for GitHub sadly. If it managed t
 ## Now it's everything
 BBBBYYYYYYYEEEEEEEEEEEEEEEEEEEEE!!!!!!!!! 👋
 
-### Wait, I forgot something!
+### Wait, I almost forgot something!
 If you want to make your own repos in GitHub and you're new, here are some good Markdown tips that I know:
 
-'#' = title
+`#` = title
 
-'##' = subtitle
+`##` = subtitle
 
-'###' = sub-subtitle ¦idk the name¦
+`###` = sub-subtitle (idk the name)
 
 '`' = 
 
@@ -94,17 +94,17 @@ If you want to make your own repos in GitHub and you're new, here are some good 
 ```
 specific code and multiple line code box
 ```
-'**' or '__' = **bold**
+`**` or `__` = **bold**
 
-'*' or '_' = *italic*
+`*` or `_` = *italic*
 
-'***' or '___' or
+`***` or `___` or
 
-'**_' or '*__' = ***bold + italic***
+`**_` or `*__` = ***bold + italic***
 
-'~~' = ~~strikethrough~~
+`~~` = ~~strikethrough~~
 
-'[display text] (url)' = text with website attached
+`[display text] (url)` = text with website attached
 
 ```markdown
 | head1 | head2 | head3 |
@@ -114,6 +114,8 @@ specific code and multiple line code box
 ```
 
 = table
+
+`---` = break section
 
 
 
