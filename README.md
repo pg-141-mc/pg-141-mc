@@ -104,11 +104,11 @@ specific code and multiple line code box
 
 `~~` = ~~strikethrough~~
 
-HTML tags - `<u>    <\u>` = <u>underline</u>
+HTML tags - `<ins>    </ins>` = <ins>underline</ins>
 
 (The `1-line code box` - ~~strikethrough~~ -- you need to put the shown symbols on either side of the [text])
 
-`[display text] (url)` = text with website attached
+`[display text] (url)` = [text with website attached](https://www.github.com/pg-141-mc)
 
 ```markdown
 | head1 | head2 | head3 |
