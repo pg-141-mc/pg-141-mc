@@ -117,6 +117,24 @@ specific code and multiple line code box
 
 `---` = break section
 
+```markdown
+- block1
+ - block2
+  - block3
+ - block2 cont.
+- block1 cont.
+```
+
+= bullet points
+
+```markdown
+1. num1
+2. num2
+3. num3
+```
+
+= numbered points
+
 
 
 
