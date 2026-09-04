@@ -104,6 +104,7 @@ specific code and multiple line code box
 
 `~~` = ~~strikethrough~~
 
+(The `1-line code box` - ~~strikethrough~~ -- you need to put the shown symbols on either side of the [text])
 `[display text] (url)` = text with website attached
 
 ```markdown
