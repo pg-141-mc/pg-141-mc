@@ -104,6 +104,8 @@ specific code and multiple line code box
 
 `~~` = ~~strikethrough~~
 
+HTML tags - `<u>    <\u>` = <u>underline<\u>
+
 (The `1-line code box` - ~~strikethrough~~ -- you need to put the shown symbols on either side of the [text])
 
 `[display text] (url)` = text with website attached
@@ -137,20 +139,7 @@ specific code and multiple line code box
 
 = numbered points
 
+### NOW that's COMPLETELY everything!!!
+***ACTUAL BBBBBBBBBBBBBBBBBBBBBBYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*** 👋👋👋👋👋👋👋👋👋
 
-
-
-<!--
-**pg-141-mc/pg-141-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Happy coding!** 💻🤖
