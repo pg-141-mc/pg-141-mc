@@ -104,7 +104,7 @@ specific code and multiple line code box
 
 `~~` = ~~strikethrough~~
 
-HTML tags - `<u>    <\u>` = <u>underline<\u>
+HTML tags - `<u>    <\u>` = <u>underline</u>
 
 (The `1-line code box` - ~~strikethrough~~ -- you need to put the shown symbols on either side of the [text])
 
